@@ -1,0 +1,1141 @@
+{
+  "meta": {
+    "source": "@homiesonly (Telegram) + @english.eroshkova (Threads/Instagram)",
+    "author": "Maria Eroshkova, meetenglishlab.ru",
+    "posts_covered": "~165 posts (#1050-#1215) + Threads posts",
+    "total_items": 180,
+    "categories": [
+      "phrasal_verbs",
+      "idioms",
+      "grammar_rules",
+      "confusable_words",
+      "modern_vocab"
+    ]
+  },
+  "phrasal_verbs": [
+    {
+      "phrase": "show up",
+      "level": "A2",
+      "meaning_ru": "появиться, прийти",
+      "example": "He showed up two hours late."
+    },
+    {
+      "phrase": "team up",
+      "level": "A2",
+      "meaning_ru": "объединиться",
+      "example": "We teamed up to finish the project faster."
+    },
+    {
+      "phrase": "speak up",
+      "level": "A2",
+      "meaning_ru": "говорить громче / отстаивать мнение",
+      "example": "Don't be afraid to speak up."
+    },
+    {
+      "phrase": "cheer up",
+      "level": "A2",
+      "meaning_ru": "взбодриться",
+      "example": "Cheer up — it's not that bad!"
+    },
+    {
+      "phrase": "grow up",
+      "level": "A2",
+      "meaning_ru": "взрослеть",
+      "example": "When I grow up, I want to travel the world."
+    },
+    {
+      "phrase": "mess up",
+      "level": "A2",
+      "meaning_ru": "облажаться",
+      "example": "I totally messed up the interview."
+    },
+    {
+      "phrase": "give up",
+      "level": "A2",
+      "meaning_ru": "бросить, сдаться",
+      "example": "He just gave up and stopped trying."
+    },
+    {
+      "phrase": "hang out",
+      "level": "A2",
+      "meaning_ru": "зависать, тусоваться",
+      "example": "We usually hang out after work."
+    },
+    {
+      "phrase": "crash out",
+      "level": "A2",
+      "meaning_ru": "вырубиться, заснуть",
+      "example": "I got home and crashed out on the sofa."
+    },
+    {
+      "phrase": "screw up",
+      "level": "A2",
+      "meaning_ru": "облажаться",
+      "example": "I really screwed up the presentation."
+    },
+    {
+      "phrase": "burn out",
+      "level": "B1",
+      "meaning_ru": "выгореть",
+      "example": "If you keep working like that, you'll burn out."
+    },
+    {
+      "phrase": "pick up (call)",
+      "level": "A2",
+      "meaning_ru": "ответить на звонок",
+      "example": "She didn't pick up when I called."
+    },
+    {
+      "phrase": "run out of",
+      "level": "A2",
+      "meaning_ru": "закончиться",
+      "example": "We've run out of coffee. SOS."
+    },
+    {
+      "phrase": "set up",
+      "level": "A2",
+      "meaning_ru": "настроить, организовать",
+      "example": "Let's set up a meeting for Friday."
+    },
+    {
+      "phrase": "log in / log out",
+      "level": "A2",
+      "meaning_ru": "войти / выйти из системы",
+      "example": "Don't forget to log out."
+    },
+    {
+      "phrase": "wear someone down",
+      "level": "B1",
+      "meaning_ru": "изматывать",
+      "example": "The noise was wearing me down."
+    },
+    {
+      "phrase": "drag on",
+      "level": "B1",
+      "meaning_ru": "тянуться слишком долго",
+      "example": "The meeting dragged on for hours."
+    },
+    {
+      "phrase": "pile up",
+      "level": "A2",
+      "meaning_ru": "накапливаться",
+      "example": "Problems keep piling up."
+    },
+    {
+      "phrase": "push through",
+      "level": "B1",
+      "meaning_ru": "продираться, не сдаваться",
+      "example": "You have to push through the hard times."
+    },
+    {
+      "phrase": "get to the bottom of",
+      "level": "B1",
+      "meaning_ru": "докопаться до причины",
+      "example": "We need to get to the bottom of this."
+    },
+    {
+      "phrase": "wrap up",
+      "level": "B1",
+      "meaning_ru": "завершать",
+      "example": "Let's wrap up the project by Friday."
+    },
+    {
+      "phrase": "hold off (on)",
+      "level": "B1",
+      "meaning_ru": "повременить",
+      "example": "Let's hold off on the launch until we get approval."
+    },
+    {
+      "phrase": "fall behind",
+      "level": "B1",
+      "meaning_ru": "отставать",
+      "example": "We're falling behind schedule."
+    },
+    {
+      "phrase": "catch up (on)",
+      "level": "B1",
+      "meaning_ru": "наверстать",
+      "example": "I need the weekend to catch up on emails."
+    },
+    {
+      "phrase": "call off",
+      "level": "B1",
+      "meaning_ru": "отменить",
+      "example": "We had to call off the meeting."
+    },
+    {
+      "phrase": "bring up",
+      "level": "B1",
+      "meaning_ru": "поднять вопрос",
+      "example": "He brought up a crucial point."
+    },
+    {
+      "phrase": "point out",
+      "level": "B1",
+      "meaning_ru": "указать на что-то",
+      "example": "She pointed out the error in the report."
+    },
+    {
+      "phrase": "fill in (for sb)",
+      "level": "B1",
+      "meaning_ru": "подменить кого-то",
+      "example": "Can you fill in for me at the stand?"
+    },
+    {
+      "phrase": "get back to sb",
+      "level": "B1",
+      "meaning_ru": "ответить позже",
+      "example": "I'll get back to you with the numbers."
+    },
+    {
+      "phrase": "come up with",
+      "level": "B1",
+      "meaning_ru": "придумать",
+      "example": "We need to come up with a new strategy."
+    },
+    {
+      "phrase": "turn down",
+      "level": "B1",
+      "meaning_ru": "отклонить",
+      "example": "They turned down our proposal."
+    },
+    {
+      "phrase": "go over",
+      "level": "B1",
+      "meaning_ru": "обсудить детально",
+      "example": "Let's go over the contract together."
+    },
+    {
+      "phrase": "iron out",
+      "level": "B1",
+      "meaning_ru": "уладить разногласия",
+      "example": "We need to iron out the final details."
+    },
+    {
+      "phrase": "back up",
+      "level": "B1",
+      "meaning_ru": "поддержать / сделать бэкап",
+      "example": "I back up this idea. / Back up your files!"
+    },
+    {
+      "phrase": "flake on someone",
+      "level": "B1",
+      "meaning_ru": "продинамить в последний момент",
+      "example": "He totally flaked on me."
+    },
+    {
+      "phrase": "badmouth",
+      "level": "B1",
+      "meaning_ru": "говорить гадости за спиной",
+      "example": "She's always badmouthing her colleagues."
+    },
+    {
+      "phrase": "touch base",
+      "level": "B1",
+      "meaning_ru": "созвониться чтобы обсудить дела",
+      "example": "Let's touch base next week about the project."
+    },
+    {
+      "phrase": "touch on",
+      "level": "B1",
+      "meaning_ru": "затронуть тему",
+      "example": "We briefly touched on the budget during the meeting."
+    },
+    {
+      "phrase": "touch off",
+      "level": "B2",
+      "meaning_ru": "спровоцировать",
+      "example": "His comments touched off a heated debate."
+    },
+    {
+      "phrase": "spring up",
+      "level": "B1",
+      "meaning_ru": "внезапно появиться",
+      "example": "New cafés keep springing up in this area."
+    },
+    {
+      "phrase": "spring into action",
+      "level": "B1",
+      "meaning_ru": "быстро начать действовать",
+      "example": "The team sprang into action immediately."
+    },
+    {
+      "phrase": "follow up",
+      "level": "B1",
+      "meaning_ru": "связаться повторно",
+      "example": "I'll follow up with an email."
+    },
+    {
+      "phrase": "get hold of",
+      "level": "B1",
+      "meaning_ru": "связаться с кем-то",
+      "example": "I've been trying to get hold of him all day."
+    },
+    {
+      "phrase": "draw the line",
+      "level": "B1",
+      "meaning_ru": "провести границу",
+      "example": "You have to draw the line somewhere."
+    },
+    {
+      "phrase": "zero in on",
+      "level": "B1",
+      "meaning_ru": "сосредоточиться на главном",
+      "example": "Let's zero in on the key issue."
+    },
+    {
+      "phrase": "fizzle out",
+      "level": "B1",
+      "meaning_ru": "сойти на нет",
+      "example": "The discussion fizzled out without a decision."
+    },
+    {
+      "phrase": "polish off",
+      "level": "B1",
+      "meaning_ru": "быстро закончить",
+      "example": "I'll polish off the report by tonight."
+    },
+    {
+      "phrase": "wade through",
+      "level": "B1",
+      "meaning_ru": "продираться сквозь объём информации",
+      "example": "I had to wade through dozens of emails."
+    },
+    {
+      "phrase": "own up to",
+      "level": "B1",
+      "meaning_ru": "взять ответственность",
+      "example": "He finally owned up to his mistake."
+    },
+    {
+      "phrase": "brush off",
+      "level": "B1",
+      "meaning_ru": "не придать значения",
+      "example": "She brushed it off and moved on."
+    },
+    {
+      "phrase": "look into",
+      "level": "B1",
+      "meaning_ru": "изучать, разбираться",
+      "example": "I'll look into the issue and get back to you."
+    },
+    {
+      "phrase": "boil down to",
+      "level": "C1",
+      "meaning_ru": "сводиться к",
+      "example": "It all boils down to communication."
+    },
+    {
+      "phrase": "get around to",
+      "level": "C1",
+      "meaning_ru": "наконец найти время на что-то",
+      "example": "I'll get around to it this weekend."
+    },
+    {
+      "phrase": "account for",
+      "level": "C1",
+      "meaning_ru": "объяснять; составлять часть",
+      "example": "How do you account for the missing data?"
+    },
+    {
+      "phrase": "lay out",
+      "level": "C1",
+      "meaning_ru": "излагать, планировать",
+      "example": "She laid out the strategy clearly."
+    },
+    {
+      "phrase": "carry out",
+      "level": "C1",
+      "meaning_ru": "выполнять, осуществлять",
+      "example": "The team carried out extensive research."
+    },
+    {
+      "phrase": "set out to do",
+      "level": "C1",
+      "meaning_ru": "намереваться",
+      "example": "She set out to change the system."
+    },
+    {
+      "phrase": "cough up",
+      "level": "C1",
+      "meaning_ru": "нехотя отдать деньги",
+      "example": "He finally coughed up the money he owed."
+    },
+    {
+      "phrase": "winkle out",
+      "level": "C1",
+      "meaning_ru": "вытащить с трудом",
+      "example": "She managed to winkle out the truth from him."
+    },
+    {
+      "phrase": "flounce off",
+      "level": "C1",
+      "meaning_ru": "уйти, демонстративно хлопнув дверью",
+      "example": "She flounced off without saying goodbye."
+    },
+    {
+      "phrase": "bottle up",
+      "level": "C1",
+      "meaning_ru": "сдерживать эмоции",
+      "example": "Don't bottle up your feelings."
+    },
+    {
+      "phrase": "gloss over",
+      "level": "C1",
+      "meaning_ru": "замять, сгладить тему",
+      "example": "He glossed over the problems in his report."
+    },
+    {
+      "phrase": "veer off",
+      "level": "C1",
+      "meaning_ru": "резко сменить направление",
+      "example": "The conversation veered off topic."
+    },
+    {
+      "phrase": "pep up",
+      "level": "C1",
+      "meaning_ru": "оживить, добавить энергии",
+      "example": "A short walk always peps me up."
+    },
+    {
+      "phrase": "creep up on",
+      "level": "C1",
+      "meaning_ru": "подкрасться, настигнуть незаметно",
+      "example": "Burnout can creep up on you."
+    },
+    {
+      "phrase": "spiral down",
+      "level": "B2",
+      "meaning_ru": "уходить в эмоциональную спираль",
+      "example": "She started to spiral down after the breakup."
+    },
+    {
+      "phrase": "knock the wind out of",
+      "level": "B2",
+      "meaning_ru": "выбить почву из-под ног",
+      "example": "The news knocked the wind out of me."
+    },
+    {
+      "phrase": "be out of the woods",
+      "level": "B2",
+      "meaning_ru": "выбраться из сложной ситуации",
+      "example": "He's recovering, but not out of the woods yet."
+    },
+    {
+      "phrase": "fawn over",
+      "level": "C1",
+      "meaning_ru": "лебезить, заискивать",
+      "example": "Everyone was fawning over the new boss."
+    },
+    {
+      "phrase": "zone out",
+      "level": "B2",
+      "meaning_ru": "отключиться, потерять нить",
+      "example": "I totally zoned out during the lecture."
+    },
+    {
+      "phrase": "pad out",
+      "level": "C1",
+      "meaning_ru": "растянуть текст лишним",
+      "example": "Don't pad out your essay with filler."
+    },
+    {
+      "phrase": "fiddle with",
+      "level": "B1",
+      "meaning_ru": "крутить в руках, возиться",
+      "example": "Stop fiddling with your phone."
+    },
+    {
+      "phrase": "give off",
+      "level": "B1",
+      "meaning_ru": "излучать (запах, тепло, свет)",
+      "example": "The candle gives off a warm light."
+    },
+    {
+      "phrase": "step in",
+      "level": "B1",
+      "meaning_ru": "вмешаться, подключиться",
+      "example": "The manager stepped in to resolve the conflict."
+    },
+    {
+      "phrase": "go off on a tangent",
+      "level": "B2",
+      "meaning_ru": "уйти от темы",
+      "example": "He went off on a tangent about his childhood."
+    }
+  ],
+  "idioms": [
+    {
+      "phrase": "beats me",
+      "level": "B1",
+      "meaning_ru": "понятия не имею",
+      "example": "Why is he late? — Beats me."
+    },
+    {
+      "phrase": "are you pulling my leg?",
+      "level": "B1",
+      "meaning_ru": "ты шутишь?",
+      "example": "You won $1000? Are you pulling my leg?"
+    },
+    {
+      "phrase": "take a breather",
+      "level": "A2",
+      "meaning_ru": "сделать паузу, передохнуть",
+      "example": "You look tired. Take a breather."
+    },
+    {
+      "phrase": "you wish!",
+      "level": "A2",
+      "meaning_ru": "размечтался!",
+      "example": "You think I'll do it for free? You wish!"
+    },
+    {
+      "phrase": "save your breath",
+      "level": "B1",
+      "meaning_ru": "не трать слова — бесполезно",
+      "example": "Save your breath — he won't listen anyway."
+    },
+    {
+      "phrase": "all hands on deck",
+      "level": "B1",
+      "meaning_ru": "всем включиться",
+      "example": "We're short on time — all hands on deck!"
+    },
+    {
+      "phrase": "I don't need handouts",
+      "level": "B1",
+      "meaning_ru": "мне не нужна подачка",
+      "example": "I've worked hard for this. I don't need handouts."
+    },
+    {
+      "phrase": "you left me hanging",
+      "level": "B1",
+      "meaning_ru": "ты меня подвесил / пропал без ответа",
+      "example": "You said you'd explain — but you left me hanging."
+    },
+    {
+      "phrase": "take my chances",
+      "level": "B1",
+      "meaning_ru": "рискнуть",
+      "example": "No other options — I may have to take my chances."
+    },
+    {
+      "phrase": "we're not through here",
+      "level": "B1",
+      "meaning_ru": "мы ещё не закончили",
+      "example": "Sit down. We're not through here."
+    },
+    {
+      "phrase": "bang-on",
+      "level": "B2",
+      "meaning_ru": "точно в точку",
+      "example": "Your guess was bang-on!"
+    },
+    {
+      "phrase": "on-the-nose",
+      "level": "B2",
+      "meaning_ru": "слишком очевидно / прямолинейно",
+      "example": "The metaphor was a bit on-the-nose."
+    },
+    {
+      "phrase": "sneaky peek",
+      "level": "B1",
+      "meaning_ru": "тайный взгляд, маленькое превью",
+      "example": "Here's a sneaky peek of what we're working on."
+    },
+    {
+      "phrase": "just giving you a hard time",
+      "level": "B1",
+      "meaning_ru": "просто подкалывать",
+      "example": "Relax, I'm just giving you a hard time."
+    },
+    {
+      "phrase": "keep your cool",
+      "level": "B1",
+      "meaning_ru": "держать себя в руках",
+      "example": "Try to keep your cool, even if things go wrong."
+    },
+    {
+      "phrase": "get the hang of it",
+      "level": "B1",
+      "meaning_ru": "понять суть / привыкнуть",
+      "example": "Don't worry, you'll get the hang of it soon."
+    },
+    {
+      "phrase": "that doesn't quite add up",
+      "level": "B2",
+      "meaning_ru": "что-то тут не так",
+      "example": "The numbers don't add up — something's wrong."
+    },
+    {
+      "phrase": "missed the point",
+      "level": "B1",
+      "meaning_ru": "не понял главное",
+      "example": "She explained it twice — he completely missed the point."
+    },
+    {
+      "phrase": "open that can of worms",
+      "level": "B2",
+      "meaning_ru": "открыть ящик Пандоры",
+      "example": "Let's not open that can of worms right now."
+    },
+    {
+      "phrase": "brushed it off",
+      "level": "B2",
+      "meaning_ru": "не придала значения",
+      "example": "He apologised but she just brushed it off."
+    },
+    {
+      "phrase": "out of line",
+      "level": "B2",
+      "meaning_ru": "неуместно, за рамками приличий",
+      "example": "That comment was out of line — apologise."
+    },
+    {
+      "phrase": "blow out of proportion",
+      "level": "B2",
+      "meaning_ru": "преувеличивать",
+      "example": "You're blowing this out of proportion again."
+    },
+    {
+      "phrase": "lift someone's spirits",
+      "level": "B1",
+      "meaning_ru": "подбодрить кого-то",
+      "example": "His message really lifted my spirits."
+    },
+    {
+      "phrase": "give someone the cold shoulder",
+      "level": "B2",
+      "meaning_ru": "демонстративно игнорировать",
+      "example": "She gave him the cold shoulder after the argument."
+    },
+    {
+      "phrase": "hard pass",
+      "level": "B1",
+      "meaning_ru": "твёрдое нет",
+      "example": "Monday 7am meeting? Hard pass."
+    },
+    {
+      "phrase": "sunday scaries",
+      "level": "B1",
+      "meaning_ru": "тревога в воскресенье вечером",
+      "example": "I get serious sunday scaries before a big week."
+    },
+    {
+      "phrase": "low-key",
+      "level": "A2",
+      "meaning_ru": "слегка, ненавязчиво",
+      "example": "I'm low-key excited about this."
+    },
+    {
+      "phrase": "it's a vibe",
+      "level": "A2",
+      "meaning_ru": "в этом что-то есть (про атмосферу)",
+      "example": "This café is really a vibe."
+    },
+    {
+      "phrase": "I'm not mad about it",
+      "level": "B1",
+      "meaning_ru": "мне ок / даже нравится",
+      "example": "The new schedule is different but I'm not mad about it."
+    },
+    {
+      "phrase": "I see where you're coming from, but…",
+      "level": "C1",
+      "meaning_ru": "я понимаю твою логику, но…",
+      "example": "I see where you're coming from, but I disagree."
+    },
+    {
+      "phrase": "there's a lot to unpack here",
+      "level": "C1",
+      "meaning_ru": "тут много всего, давай разбираться",
+      "example": "There's a lot to unpack here — where do we start?"
+    },
+    {
+      "phrase": "I'm on the fence about this",
+      "level": "C1",
+      "meaning_ru": "я пока не определился",
+      "example": "I'm on the fence about the new policy."
+    },
+    {
+      "phrase": "that might backfire",
+      "level": "C1",
+      "meaning_ru": "это может плохо обернуться",
+      "example": "If you push too hard, that might backfire."
+    },
+    {
+      "phrase": "not a hill I'm willing to die on",
+      "level": "C1",
+      "meaning_ru": "не тот вопрос, за который готов биться",
+      "example": "I disagree, but it's not a hill I'm willing to die on."
+    },
+    {
+      "phrase": "no biggie",
+      "level": "A2",
+      "meaning_ru": "пустяки",
+      "example": "You forgot? No biggie!"
+    },
+    {
+      "phrase": "my bad",
+      "level": "A2",
+      "meaning_ru": "мой косяк",
+      "example": "Oops, my bad — wrong file."
+    },
+    {
+      "phrase": "I'm good",
+      "level": "A2",
+      "meaning_ru": "мне нормально / не нужно",
+      "example": "More coffee? — I'm good, thanks."
+    },
+    {
+      "phrase": "I'm down",
+      "level": "A2",
+      "meaning_ru": "я за / согласен",
+      "example": "Road trip? — I'm down!"
+    },
+    {
+      "phrase": "not really",
+      "level": "A2",
+      "meaning_ru": "не особо",
+      "example": "Did you enjoy it? — Not really."
+    },
+    {
+      "phrase": "can't complain",
+      "level": "A2",
+      "meaning_ru": "грех жаловаться",
+      "example": "How's life? — Can't complain."
+    },
+    {
+      "phrase": "that figures",
+      "level": "B1",
+      "meaning_ru": "логично, я так и думал",
+      "example": "He was late again. — That figures."
+    },
+    {
+      "phrase": "serves you right",
+      "level": "A2",
+      "meaning_ru": "так тебе и надо",
+      "example": "I told you it was hot! — Serves you right."
+    },
+    {
+      "phrase": "don't push it",
+      "level": "B1",
+      "meaning_ru": "не перегибай палку",
+      "example": "I gave you extra time — don't push it."
+    },
+    {
+      "phrase": "I'm just saying",
+      "level": "A2",
+      "meaning_ru": "я просто говорю",
+      "example": "It's risky — I'm just saying."
+    },
+    {
+      "phrase": "you do you",
+      "level": "A2",
+      "meaning_ru": "делай как считаешь нужным",
+      "example": "It's not my style, but you do you."
+    },
+    {
+      "phrase": "sounds about right",
+      "level": "A2",
+      "meaning_ru": "похоже на правду",
+      "example": "$40 for that? Sounds about right."
+    },
+    {
+      "phrase": "fingers crossed",
+      "level": "A2",
+      "meaning_ru": "держим кулачки",
+      "example": "Interview tomorrow — fingers crossed!"
+    },
+    {
+      "phrase": "whatever works",
+      "level": "A2",
+      "meaning_ru": "как угодно / как удобно",
+      "example": "Pen or pencil — whatever works."
+    },
+    {
+      "phrase": "fancy a cuppa?",
+      "level": "B1",
+      "meaning_ru": "хочешь чашечку чая?",
+      "example": "Fancy a cuppa? I just put the kettle on."
+    },
+    {
+      "phrase": "leg it!",
+      "level": "B1",
+      "meaning_ru": "беги! удирай!",
+      "example": "The security's coming — leg it!"
+    },
+    {
+      "phrase": "I'm gutted",
+      "level": "B1",
+      "meaning_ru": "я разбит, очень расстроен",
+      "example": "I'm gutted — we lost in the final minute."
+    },
+    {
+      "phrase": "stop faffing around!",
+      "level": "B1",
+      "meaning_ru": "хватит тянуть резину!",
+      "example": "Stop faffing around and just do it!"
+    },
+    {
+      "phrase": "he's minted",
+      "level": "B1",
+      "meaning_ru": "он при деньгах",
+      "example": "He drives a Ferrari — he's minted."
+    },
+    {
+      "phrase": "I'm knackered",
+      "level": "B1",
+      "meaning_ru": "я вымотан",
+      "example": "It's only Monday and I'm already knackered."
+    },
+    {
+      "phrase": "it's all gone pear-shaped",
+      "level": "B2",
+      "meaning_ru": "всё пошло наперекосяк",
+      "example": "The project's gone pear-shaped — need your help."
+    },
+    {
+      "phrase": "having a mare",
+      "level": "B2",
+      "meaning_ru": "всё ужасно / полный кошмар",
+      "example": "I'm having a mare today — three things went wrong."
+    }
+  ],
+  "grammar_rules": [
+    {
+      "rule": "few vs a few vs quite a few",
+      "level": "A2",
+      "explanation": "few=мало(негатив) | a few=немного(позитив) | quite a few=немало/много. Подсказка: артикль 'a' = есть что-то.",
+      "example": "I have few friends (sad). I have a few friends (ok). I have quite a few friends (lots!)"
+    },
+    {
+      "rule": "verb + -ing (avoid/enjoy/keep)",
+      "level": "A2",
+      "explanation": "После avoid, enjoy, keep, consider, mind → всегда -ing форма (герундий).",
+      "example": "He avoids talking about his past. ✅ (NOT: avoids to talk ❌)"
+    },
+    {
+      "rule": "look forward to + -ing",
+      "level": "B1",
+      "explanation": "После 'look forward to' всегда -ing, не инфинитив!",
+      "example": "I look forward to SEEING you. ✅ (NOT: to see ❌)"
+    },
+    {
+      "rule": "make/let + bare infinitive",
+      "level": "B1",
+      "explanation": "После make и let объект + инфинитив БЕЗ to.",
+      "example": "She made me rewrite the essay. / Let me help you."
+    },
+    {
+      "rule": "need to vs needn't",
+      "level": "B1",
+      "explanation": "need to do (обычный глагол) = needn't do (модальный). Оба верны. needn't = чуть формальнее.",
+      "example": "You don't need to worry. = You needn't worry."
+    },
+    {
+      "rule": "to be supposed to",
+      "level": "B1",
+      "explanation": "Не 'должен', а 'ожидается по правилам/договорённости'. Мягче чем must/have to.",
+      "example": "You're not supposed to park here. (правило, не личный запрет)"
+    },
+    {
+      "rule": "modals of deduction (present)",
+      "level": "B2",
+      "explanation": "must be=почти уверен | might/may/could be=вероятность | can't be=невозможно.",
+      "example": "He must be at home. She might be late. He can't be serious."
+    },
+    {
+      "rule": "modals of deduction (past)",
+      "level": "B2",
+      "explanation": "must have done=точно произошло | might have done=возможно | can't have done=точно нет.",
+      "example": "She must have forgotten. He might have missed the train."
+    },
+    {
+      "rule": "I wish/if only + Past Perfect",
+      "level": "C1",
+      "explanation": "Сожаление о прошлом = Past Perfect после wish/if only. НЕ Past Simple!",
+      "example": "I wish I hadn't gone there. ✅ (NOT: I wish I didn't go ❌)"
+    },
+    {
+      "rule": "it's high time + Past Simple",
+      "level": "C1",
+      "explanation": "После 'it's high time' Past Simple для настоящего с оттенком запоздания.",
+      "example": "It's time we started. ✅ (NOT: It's time we start ❌)"
+    },
+    {
+      "rule": "inversion after negative adverbs",
+      "level": "C1",
+      "explanation": "После never/rarely/hardly/little → порядок слов как в вопросе.",
+      "example": "Never have I seen such a thing. / Rarely do we think about it."
+    },
+    {
+      "rule": "arrive in vs arrive at",
+      "level": "A2",
+      "explanation": "arrive IN city (город), arrive AT specific place (аэропорт, вечеринка). Никогда 'arrive TO'!",
+      "example": "We arrived in Moscow. We arrived at the airport."
+    },
+    {
+      "rule": "in/on transport",
+      "level": "A2",
+      "explanation": "in the car (внутри) | on the train/bus/plane (пассажир, едешь).",
+      "example": "I'm on the train. She's in the car."
+    },
+    {
+      "rule": "articles + geography",
+      "level": "B1",
+      "explanation": "Города/страны без артикля. The + UK/USA/Netherlands (kingdom/states/republic). The + реки/океаны. The + горные цепи.",
+      "example": "London, France (no article). The UK, the Thames, the Alps (with THE)."
+    },
+    {
+      "rule": "at school vs at THE school",
+      "level": "B1",
+      "explanation": "Без артикля = функция (учиться). С 'the' = здание/место.",
+      "example": "He's at school (studying). I'm at the school (building, e.g. visiting)."
+    },
+    {
+      "rule": "affect vs effect",
+      "level": "B2",
+      "explanation": "affect = глагол 'влиять' (A=Action). effect = существительное 'результат' (E=End result).",
+      "example": "The weather affects my mood. The new policy had a positive effect."
+    },
+    {
+      "rule": "me neither vs me too",
+      "level": "A2",
+      "explanation": "me too → только на утверждение. me neither / I don't either → на отрицание.",
+      "example": "I don't like coffee. — Me neither. ✅ / I like coffee. — Me too. ✅"
+    },
+    {
+      "rule": "beside vs besides",
+      "level": "B1",
+      "explanation": "beside = рядом с (next to). besides = кроме того (in addition to).",
+      "example": "She sat beside me. Besides, I'm too tired to go out."
+    },
+    {
+      "rule": "people vs persons",
+      "level": "A2",
+      "explanation": "people = повседневно. persons = официально, в документах/юридических текстах.",
+      "example": "Many people came. / Unauthorized persons only."
+    },
+    {
+      "rule": "amount vs number vs quantity",
+      "level": "B1",
+      "explanation": "amount = неисчисляемые. number = исчисляемые. quantity = формально (наука/бизнес).",
+      "example": "The amount of water. The number of messages. Large quantities of data."
+    },
+    {
+      "rule": "there's no point in doing",
+      "level": "B1",
+      "explanation": "После 'there's no point' всегда -ing. Синонимы: it's useless to / not worth it / a waste of time / why bother?",
+      "example": "There's no point in worrying. / Why bother calling him?"
+    }
+  ],
+  "confusable_words": [
+    {
+      "words": "sickness/illness/disease/condition",
+      "level": "B1",
+      "explanation": "sickness=общее плохо/тошнота | illness=серьёзнее | disease=медицинский диагноз | condition=мягко",
+      "examples": {
+        "sickness": "motion sickness",
+        "illness": "a serious illness",
+        "disease": "heart disease",
+        "condition": "a heart condition"
+      }
+    },
+    {
+      "words": "gauge/evaluate/appraise/estimate/weigh",
+      "level": "B2",
+      "explanation": "gauge=прочувствовать | evaluate=оценить качество | appraise=оценить стоимость | estimate=прикинуть | weigh=взвесить за/против",
+      "examples": {
+        "gauge": "gauge his mood",
+        "evaluate": "evaluate performance",
+        "appraise": "appraise the painting",
+        "estimate": "estimate the time",
+        "weigh": "weigh the pros and cons"
+      }
+    },
+    {
+      "words": "affect/effect",
+      "level": "B2",
+      "explanation": "affect=глагол влиять (A=action) | effect=существительное результат (E=end result)",
+      "examples": {
+        "affect": "The weather affects my mood.",
+        "effect": "A positive effect on sales."
+      }
+    },
+    {
+      "words": "economic/economical",
+      "level": "B1",
+      "explanation": "economic=про экономику | economical=бережливый, экономный",
+      "examples": {
+        "economic": "economic crisis",
+        "economical": "an economical car (uses less fuel)"
+      }
+    },
+    {
+      "words": "historic/historical",
+      "level": "B1",
+      "explanation": "historic=войдёт в историю | historical=исторического характера",
+      "examples": {
+        "historic": "a historic moment",
+        "historical": "a historical novel"
+      }
+    },
+    {
+      "words": "classic/classical",
+      "level": "B1",
+      "explanation": "classic=культовое/эталонное | classical=классика (музыка, период)",
+      "examples": {
+        "classic": "a classic film",
+        "classical": "classical music"
+      }
+    },
+    {
+      "words": "conscious/conscientious",
+      "level": "B2",
+      "explanation": "conscious=осознающий, в сознании | conscientious=добросовестный, ответственный",
+      "examples": {
+        "conscious": "Are you conscious of the risks?",
+        "conscientious": "She's a very conscientious student."
+      }
+    },
+    {
+      "words": "beside/besides",
+      "level": "B1",
+      "explanation": "beside=рядом с (next to) | besides=кроме того (in addition to)",
+      "examples": {
+        "beside": "She sat beside me.",
+        "besides": "Besides, I'm too tired."
+      }
+    },
+    {
+      "words": "amount/number/quantity",
+      "level": "B1",
+      "explanation": "amount=неисчисл. | number=исчисл. | quantity=формально",
+      "examples": {
+        "amount": "the amount of water",
+        "number": "the number of people",
+        "quantity": "large quantities of data"
+      }
+    },
+    {
+      "words": "futile/pathetic",
+      "level": "B2",
+      "explanation": "futile=тщетный, бесполезный (о действии) | pathetic=жалкий (о человеке или усилии)",
+      "examples": {
+        "futile": "a futile attempt",
+        "pathetic": "a pathetic excuse"
+      }
+    }
+  ],
+  "modern_vocab": [
+    {
+      "term": "quiet quitting",
+      "level": "B1",
+      "meaning_ru": "делать bare минимум без инициативы",
+      "example": "He's been quiet quitting for months now."
+    },
+    {
+      "term": "impostor syndrome",
+      "level": "B1",
+      "meaning_ru": "синдром самозванца",
+      "example": "She has impostor syndrome despite being brilliant."
+    },
+    {
+      "term": "hustle culture",
+      "level": "B1",
+      "meaning_ru": "культ работы и успешного успеха",
+      "example": "Hustle culture is burning people out."
+    },
+    {
+      "term": "side hustle",
+      "level": "B1",
+      "meaning_ru": "подработка",
+      "example": "His side hustle earns more than his main job."
+    },
+    {
+      "term": "micromanaging",
+      "level": "B1",
+      "meaning_ru": "чрезмерный контроль подчинённых",
+      "example": "Stop micromanaging — trust your team."
+    },
+    {
+      "term": "brain fog",
+      "level": "B1",
+      "meaning_ru": "туман в голове, снижение ясности мышления",
+      "example": "I can't focus today — total brain fog."
+    },
+    {
+      "term": "bed rotting",
+      "level": "A2",
+      "meaning_ru": "лежать в кровати весь день без причины",
+      "example": "I spent Sunday bed rotting — no regrets."
+    },
+    {
+      "term": "hard pass",
+      "level": "B1",
+      "meaning_ru": "твёрдое нет, спасибо",
+      "example": "Monday 7am meeting? Hard pass."
+    },
+    {
+      "term": "sunday scaries",
+      "level": "B1",
+      "meaning_ru": "тревога в воскресенье вечером перед работой",
+      "example": "I get serious sunday scaries before a big week."
+    },
+    {
+      "term": "low-key",
+      "level": "A2",
+      "meaning_ru": "слегка, ненавязчиво, немного",
+      "example": "I'm low-key excited about this."
+    },
+    {
+      "term": "it's a vibe",
+      "level": "A2",
+      "meaning_ru": "в этом что-то есть (про атмосферу)",
+      "example": "This café is really a vibe."
+    },
+    {
+      "term": "this ate",
+      "level": "A2",
+      "meaning_ru": "ты сделал это идеально (TikTok)",
+      "example": "She performed and it ate!"
+    },
+    {
+      "term": "I'm deceased",
+      "level": "A2",
+      "meaning_ru": "умираю со смеху",
+      "example": "That meme — I'm deceased 💀"
+    },
+    {
+      "term": "it's giving…",
+      "level": "A2",
+      "meaning_ru": "это передаёт атмосферу / выглядит как",
+      "example": "It's giving main character energy."
+    },
+    {
+      "term": "main character energy",
+      "level": "B1",
+      "meaning_ru": "ведёшь себя как главный герой",
+      "example": "She walked in with total main character energy."
+    },
+    {
+      "term": "futz around",
+      "level": "B2",
+      "meaning_ru": "возиться, тянуть время бесполезно",
+      "example": "Stop futzing around and get to work."
+    },
+    {
+      "term": "letdown",
+      "level": "B1",
+      "meaning_ru": "разочарование",
+      "example": "After all the hype, the movie was such a letdown."
+    },
+    {
+      "term": "slide into DMs",
+      "level": "A2",
+      "meaning_ru": "написать в личку",
+      "example": "He slid into my DMs with a random question."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "source": "Telegram @govoritzimina (ГОВОРИТ ЗИМИНА)",
+    "author": "Daria Zimina - MSLU student, online English tutor (ProgressMe, TEFL certified)",
+    "booking_bot": "@zibabyme",
+    "feedback_channel": "@govoritzimina1",
+    "posts_covered": "Messages #53-#217 (earlier #1-52 inaccessible via web preview)",
+    "paid_product": "Tenses trainer course with @mashassdf, for grades 5-11, A1-B1",
+    "total_items": 30
+  },
+  "idioms": [
+    {
+      "phrase": "HMU (hit me up)",
+      "meaning_ru": "напиши мне, свяжись со мной"
+    },
+    {
+      "phrase": "cut (one) some slack",
+      "meaning_ru": "сделать поблажку",
+      "example": "Cut Tom some slack."
+    },
+    {
+      "phrase": "have a head like a sieve",
+      "meaning_ru": "голова как решето, ничего не помнить"
+    },
+    {
+      "phrase": "on the verge of laughter",
+      "meaning_ru": "на грани смеха",
+      "example": "He was on the verge of laughter during the serious meeting."
+    },
+    {
+      "phrase": "pull yourself together",
+      "meaning_ru": "взять себя в руки"
+    },
+    {
+      "phrase": "couch potato",
+      "meaning_ru": "домосед, диванная картошка"
+    },
+    {
+      "phrase": "hit the jackpot",
+      "meaning_ru": "сорвать джекпот"
+    },
+    {
+      "phrase": "hit the sack",
+      "meaning_ru": "лечь спать"
+    },
+    {
+      "phrase": "get out of hand",
+      "meaning_ru": "выйти из-под контроля",
+      "example": "If your party gets out of hand, the neighbors will call the police."
+    },
+    {
+      "phrase": "(to have a) sweet tooth",
+      "meaning_ru": "сладкоежка",
+      "example": "I don't have much of a sweet tooth."
+    },
+    {
+      "phrase": "a pain in the neck",
+      "meaning_ru": "заноза, неприятный человек"
+    },
+    {
+      "phrase": "a lazybones",
+      "meaning_ru": "лентяй"
+    },
+    {
+      "phrase": "top of the class",
+      "meaning_ru": "отличник"
+    },
+    {
+      "phrase": "have one's head in the clouds",
+      "meaning_ru": "витать в облаках"
+    },
+    {
+      "phrase": "No sh*t, Sherlock",
+      "meaning_ru": "вот это открытие! и так очевидно"
+    }
+  ],
+  "grammar_rules": [
+    {
+      "rule": "to be as linking verb",
+      "explanation": "to be не ставится перед обычным смысловым глаголом",
+      "example": "I do my homework. (NOT: I am do my homework)"
+    },
+    {
+      "rule": "Present Perfect - 4 uses",
+      "explanation": "Опыт, результат, новости, длительность (for/since)",
+      "example": "I have visited Japan. I have lost my keys. I have lived here for 5 years."
+    },
+    {
+      "rule": "few/a few/little/a little",
+      "explanation": "few/a few - исчисляемые; little/a little - неисчисляемые. Без 'a' = негатив, с 'a' = ок.",
+      "example": "I have few friends (sad). I have a few friends (ok)."
+    },
+    {
+      "rule": "Adverbs of frequency word order",
+      "explanation": "Перед смысловым глаголом, после to be",
+      "example": "I often go to the gym. He is always happy."
+    },
+    {
+      "rule": "Collocations",
+      "explanation": "Учить устойчивые сочетания целиком, не переводить по словам",
+      "example": "take a picture (NOT do/make a picture); a quick shower (NOT a fast shower)"
+    }
+  ],
+  "confusable_words": [
+    {
+      "words": "advice/advise",
+      "explanation": "advice [ədˈvaɪs] = существительное (неисчисл!) совет. advise [ədˈvaɪz] = глагол советовать.",
+      "example": "He gave me good advice. (NOT: an advice/advices)"
+    },
+    {
+      "words": "British vs American vocabulary",
+      "explanation": "boot/trunk, lift/elevator, autumn/fall, biscuit/cookie",
+      "example": "subway = переход (UK) vs метро (US)!"
+    }
+  ],
+  "pronunciation_tips": [
+    {
+      "word": "debt",
+      "note": "буква b не произносится"
+    },
+    {
+      "word": "urgent",
+      "ipa": "[ˈɜːʤənt]"
+    },
+    {
+      "tip": "Final R",
+      "note": "British смягчает/опускает, American произносит чётко (car, mother)"
+    },
+    {
+      "tip": "dance [æ] vs [ɑː]",
+      "note": "American [dæns], British [dɑːns]"
+    }
+  ],
+  "topic_vocab": {
+    "travel": [
+      "What's your seat number?",
+      "window seat / aisle seat",
+      "Please take your seat"
+    ],
+    "success_habits": [
+      "Take care of yourself",
+      "Plan your time well",
+      "Have clear goals",
+      "Listen carefully"
+    ],
+    "weather": [
+      "bundle up",
+      "it is pouring with rain",
+      "Gosh, it's cold"
+    ]
+  },
+  "slang": [
+    {
+      "term": "Tbh",
+      "meaning_ru": "если честно (to be honest)"
+    },
+    {
+      "term": "BTW",
+      "meaning_ru": "кстати (by the way)"
+    },
+    {
+      "term": "IDC",
+      "meaning_ru": "мне всё равно (I don't care)"
+    },
+    {
+      "term": "delulu",
+      "meaning_ru": "в иллюзиях, нереалистичные ожидания"
+    }
+  ]
+}

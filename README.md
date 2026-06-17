@@ -14,6 +14,7 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | `authors/lirenglish/` | Anastasia (@lir_a) | [@lirenglish](https://t.me/lirenglish) | Teacher's diary: idioms, grammar, pronunciation, methods | 30+ |
 | `authors/stacy-laoshi/` | Stacy Laoshi | [@stacy_laoshi](https://t.me/stacy_laoshi) | 🇨🇳 Chinese: hanzi, grammar, tones, slang, drama phrases | 30 |
 | `authors/ykengway/` | Yuliana | [@ykengway](https://t.me/ykengway) | Bilingual RU/EN: vocab topics, grammar, idioms | 45 |
+| `authors/govoritzimina/` | Daria Zimina | [@govoritzimina](https://t.me/govoritzimina) | Daily phrases, grammar, confusables, slang | 30+ |
 
 ---
 
@@ -32,7 +33,8 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | Lir in English (teacher's diary) | 30+ |
 | Chinese (Stacy Laoshi) | 30 |
 | Yuliana (ykengway) | 45 |
-| **TOTAL** | **375+** |
+| Daria Zimina (govoritzimina) | 30+ |
+| **TOTAL** | **400+** |
 
 ---
 
@@ -93,6 +95,16 @@ english-vocab-homiesonly/
         ├── grammar_notes.md
         ├── confusable_words.md
         ├── pronunciation_tips.md
+        └── resources.md
+    └── govoritzimina/
+        ├── README.md
+        ├── vocabulary.json
+        ├── idioms_and_phrases.md
+        ├── grammar_notes.md
+        ├── confusable_words.md
+        ├── pronunciation_tips.md
+        ├── vocabulary_topics.md
+        ├── slang_modern.md
         └── resources.md
 ```
 

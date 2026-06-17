@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "source": "Telegram @lirenglish (📲 Асинхронное плавание)",
+    "author": "Anastasia (@lir_a) - TESOL certified, Cambridge CAE (C1), based in Belgrade, Serbia",
+    "other_platforms": {
+      "youtube": "@lir_in_english",
+      "instagram": "lir_in_english",
+      "bot": "@lirinenglish_bot (free A1-A2 lessons)",
+      "feedback_channel": "@lirinengfeedback"
+    },
+    "note": "Teacher's diary/blog format - vocabulary woven into methodology posts, not a vocab-dump channel",
+    "posts_covered": "~60-70 posts with extractable educational content",
+    "total_items": 30
+  },
+  "idioms": [
+    {
+      "phrase": "be an eyesore",
+      "meaning_ru": "мозолить глаза, портить вид",
+      "example": "Some say that Lakhta centre is an eyesore in the historical centre."
+    },
+    {
+      "phrase": "what are you driving at?",
+      "meaning_ru": "к чему ты клонишь?",
+      "example": "I don't see what you're driving at."
+    },
+    {
+      "phrase": "color me intrigued/surprised/shocked",
+      "meaning_ru": "считай меня (заинтригованным…)",
+      "example": "We're getting a raise this year? Color me shocked!"
+    },
+    {
+      "phrase": "don't have a cow",
+      "meaning_ru": "не переживай так, не бесись",
+      "example": "My mother had a cow when I said I'd made a tattoo."
+    },
+    {
+      "phrase": "have a beef with someone",
+      "meaning_ru": "враждовать с кем-то",
+      "example": "He has a beef with his neighbor."
+    },
+    {
+      "phrase": "blanketed in (snow/fog)",
+      "meaning_ru": "укрытый (= covered with)",
+      "example": "The mountains are blanketed in snow."
+    },
+    {
+      "phrase": "umpteenth",
+      "meaning_ru": "сотый/тысячный по счёту",
+      "example": "I drank my umpteenth cup of coffee today."
+    },
+    {
+      "phrase": "know like the back of my hand",
+      "meaning_ru": "знать как свои пять пальцев",
+      "example": "I know her like the back of my hand."
+    },
+    {
+      "phrase": "have a fit",
+      "meaning_ru": "взбеситься, выйти из себя",
+      "example": "Mum would have a fit if she saw me now."
+    },
+    {
+      "phrase": "as if!",
+      "meaning_ru": "вот ещё! ага конечно!",
+      "example": "You'll do the dishes? As if!"
+    },
+    {
+      "phrase": "in hindsight",
+      "meaning_ru": "задним числом",
+      "example": "In hindsight, I've got to admit he was talented."
+    },
+    {
+      "phrase": "how about that",
+      "meaning_ru": "надо же, как тебе такое",
+      "example": "He won the lottery twice — how about that."
+    },
+    {
+      "phrase": "dodge a bullet",
+      "meaning_ru": "пронесло, избежать неприятности",
+      "example": "We dodged a bullet by leaving early."
+    },
+    {
+      "phrase": "sugar-coat",
+      "meaning_ru": "приукрашивать неприятную правду",
+      "example": "She never sugar-coated anything."
+    },
+    {
+      "phrase": "chick lit",
+      "meaning_ru": "лёгкий женский роман (жанр)",
+      "example": "I love reading chick lit on vacation."
+    }
+  ],
+  "russian_idiom_equivalents": [
+    {
+      "russian": "Иметь длинный язык",
+      "english": "to be a chatterbox"
+    },
+    {
+      "russian": "Разговаривать на разных языках",
+      "english": "to speak Greek / to speak Chinese (to each other)"
+    },
+    {
+      "russian": "Держать язык за зубами",
+      "english": "to bite your tongue"
+    },
+    {
+      "russian": "Слово — серебро, молчание — золото",
+      "english": "silence is golden"
+    }
+  ],
+  "grammar_rules": [
+    {
+      "rule": "Past Simple vs Past Perfect vs Past Continuous",
+      "explanation": "Simple=факт/разовое действие. Perfect=раньше другого события. Continuous=процесс/фон.",
+      "example": "I wrote this post. After the post had inspired me, I decided to share. The sun was shining while I was writing."
+    },
+    {
+      "rule": "Subject questions without 'did'",
+      "explanation": "Когда вопрос к подлежащему — did не нужен",
+      "example": "Who called you? What happened?"
+    },
+    {
+      "rule": "Casual reported speech",
+      "explanation": "В разговорной речи используют He was like / He was all / He went вместо строгого согласования времён",
+      "example": "He was like, 'I'm not doing that.'"
+    },
+    {
+      "rule": "Building longer sentences",
+      "explanation": "Простые → союзы (and/but/because) → продвинутые союзы (however/although) → relative clauses",
+      "example": "The colleague I told you about lives nearby."
+    },
+    {
+      "rule": "used to for past habits",
+      "explanation": "Описание прошлых привычек/состояний, которые изменились",
+      "example": "The city used to have fewer cars. There used to be a park here."
+    }
+  ],
+  "confusable_words": [
+    {
+      "words": "career/carrier",
+      "explanation": "career /kəˈrɪə(r)/ = карьера; carrier /ˈkæriə(r)/ = перевозчик, носитель"
+    },
+    {
+      "words": "important → essential/crucial/vital",
+      "explanation": "Синонимы-усилители для 'важный'"
+    },
+    {
+      "words": "susceptible to illness = prone to illness",
+      "explanation": "Синонимы 'подверженный болезни'"
+    }
+  ],
+  "pronunciation_tips": [
+    {
+      "tip": "Noun vs Verb stress (2-syllable words)",
+      "rule": "Существительные: ударение на 1-й слог. Глаголы: ударение на 2-й слог.",
+      "example": "a RECord (noun) / to reCORD (verb)"
+    },
+    {
+      "tip": "Flap T (American English)",
+      "rule": "T между гласными звучит как D",
+      "example": "water, better — Cambridge Dictionary указывает это, Oxford обычно нет"
+    },
+    {
+      "tip": "Shadowing technique",
+      "rule": "Слушать 1-минутный отрывок, копировать интонацию и темп предложение за предложением",
+      "example": "Sites: shadowingenglish.com, shadowing.tech"
+    }
+  ],
+  "resources": {
+    "pronunciation_courses": [
+      "Mila True English (AmE)",
+      "Rachel's English (AmE)",
+      "Accent's Way with Hadar (AmE)",
+      "Inna in English (BrE)",
+      "English with Lucy (BrE)",
+      "Pronunciation with Emma (BrE)"
+    ],
+    "ai_conversation_apps": [
+      "spoken.me",
+      "languatalk.com",
+      "fluently",
+      "smalltalk2.me"
+    ],
+    "books": [
+      "A Heart for Christmas by Sophie Jomain (B1+)",
+      "Remind me again why I need a man (C1)",
+      "The Culture Map by Erin Meyer (B2+/C1)"
+    ],
+    "coursebooks": [
+      "Outcomes",
+      "Roadmap",
+      "SpeakOut",
+      "Keynote",
+      "Go Getter 3",
+      "Get Involved",
+      "Look",
+      "ESL Brains"
+    ]
+  }
+}

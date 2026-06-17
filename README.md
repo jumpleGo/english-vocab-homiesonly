@@ -11,6 +11,7 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 | `authors/maria-eroshkova/` | Maria Eroshkova | [@homiesonly](https://t.me/homiesonly) | Conversational, Phrasal Verbs, Business | 180+ |
 | `authors/canada-talk/` | IELTS Tutor (Victoria, BC) | [@canada_talk](https://t.me/canada_talk) | Series vocab, Gen Z, Canadian life, Grammar | 60+ |
 | `authors/engwithoutfears/` | Marina | [@engwithoutfears](https://t.me/engwithoutfears) | Phrases, idioms, topic adjectives (small channel) | 28 |
+| `authors/lirenglish/` | Anastasia (@lir_a) | [@lirenglish](https://t.me/lirenglish) | Teacher's diary: idioms, grammar, pronunciation, methods | 30+ |
 
 ---
 
@@ -26,7 +27,8 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 | Canadian Culture & Life | 15+ |
 | Hockey Vocab | 8+ |
 | English without Fear (small channel) | 28 |
-| **TOTAL** | **270+** |
+| Lir in English (teacher's diary) | 30+ |
+| **TOTAL** | **300+** |
 
 ---
 
@@ -61,6 +63,15 @@ english-vocab-homiesonly/
         ├── phrases_and_idioms.md
         ├── vocabulary_topics.md
         └── resources.md
+    └── lirenglish/
+        ├── README.md
+        ├── vocabulary.json
+        ├── idioms_and_phrases.md
+        ├── grammar_notes.md
+        ├── confusable_words.md
+        ├── pronunciation_tips.md
+        ├── resources.md
+        └── teaching_methods.md
 ```
 
 ---

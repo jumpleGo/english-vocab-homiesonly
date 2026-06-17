@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "source": "Telegram @engwithoutfears",
+    "author": "Marina (translator-interpreter, teacher of English/Kazakh/Russian)",
+    "contact": "@LinguaENGKZ",
+    "posts_covered": "All 33 posts (channel start to current)",
+    "note": "Very small/new channel - limited content",
+    "total_items": 28
+  },
+  "phrases": [
+    {
+      "phrase": "I'm not buying it",
+      "meaning_ru": "я в это не верю"
+    },
+    {
+      "phrase": "It doesn't ring a bell",
+      "meaning_ru": "мне это ни о чём не говорит"
+    },
+    {
+      "phrase": "I'm into it",
+      "meaning_ru": "мне это нравится / интересно"
+    },
+    {
+      "phrase": "I'm up for it",
+      "meaning_ru": "я за / я не против"
+    },
+    {
+      "phrase": "I can't make it",
+      "meaning_ru": "я не смогу прийти"
+    },
+    {
+      "phrase": "Give me a sec",
+      "meaning_ru": "подожди секунду"
+    },
+    {
+      "phrase": "I'm just saying",
+      "meaning_ru": "я просто говорю / к слову"
+    },
+    {
+      "phrase": "Fair enough",
+      "meaning_ru": "ну логично / ок принимается"
+    }
+  ],
+  "binomials": [
+    {
+      "expression": "ins and outs",
+      "meaning_ru": "от и до, все тонкости",
+      "example": "You will know all their ins and outs."
+    },
+    {
+      "expression": "dos and don'ts",
+      "meaning_ru": "что можно и что нельзя",
+      "example": "She gave us the dos and don'ts for the trip."
+    },
+    {
+      "expression": "by and large",
+      "meaning_ru": "в общем и целом",
+      "example": "By and large, people prefer summer to winter."
+    },
+    {
+      "expression": "rights and wrongs",
+      "meaning_ru": "правые и виноватые",
+      "example": "The judge considered the rights and wrongs of the case."
+    },
+    {
+      "expression": "black and white",
+      "meaning_ru": "однозначный",
+      "example": "The rules are in black and white."
+    },
+    {
+      "expression": "pros and cons",
+      "meaning_ru": "за и против",
+      "example": "Bear in mind all the pros and cons."
+    }
+  ],
+  "idioms": [
+    {
+      "phrase": "to buy a pig in a poke",
+      "meaning_ru": "купить кота в мешке (не глядя)",
+      "example": "I bought this phone online without reading reviews — I really bought a pig in a poke."
+    }
+  ],
+  "film_adjectives": [
+    {
+      "word": "overrated",
+      "meaning_ru": "переоценённый"
+    },
+    {
+      "word": "hackneyed",
+      "meaning_ru": "банальный, избитый"
+    },
+    {
+      "word": "disjointed",
+      "meaning_ru": "несвязный, рваный"
+    },
+    {
+      "word": "far-fetched",
+      "meaning_ru": "надуманный, притянутый за уши"
+    },
+    {
+      "word": "risqué",
+      "meaning_ru": "откровенный, пикантный"
+    },
+    {
+      "word": "harrowing",
+      "meaning_ru": "душераздирающий"
+    },
+    {
+      "word": "understated",
+      "meaning_ru": "сдержанный, тонкий"
+    }
+  ],
+  "personality_adjectives": [
+    {
+      "word": "impetuous",
+      "meaning_ru": "импульсивный"
+    },
+    {
+      "word": "taciturn",
+      "meaning_ru": "немногословный, молчаливый"
+    },
+    {
+      "word": "gullible",
+      "meaning_ru": "доверчивый, легко обманывается"
+    },
+    {
+      "word": "obstinate",
+      "meaning_ru": "упрямый"
+    },
+    {
+      "word": "aloof",
+      "meaning_ru": "отстранённый"
+    },
+    {
+      "word": "disdainful",
+      "meaning_ru": "высокомерный, презрительный"
+    }
+  ]
+}

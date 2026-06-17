@@ -10,6 +10,7 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 |---|---|---|---|---|
 | `authors/maria-eroshkova/` | Maria Eroshkova | [@homiesonly](https://t.me/homiesonly) | Conversational, Phrasal Verbs, Business | 180+ |
 | `authors/canada-talk/` | IELTS Tutor (Victoria, BC) | [@canada_talk](https://t.me/canada_talk) | Series vocab, Gen Z, Canadian life, Grammar | 60+ |
+| `authors/engwithoutfears/` | Marina | [@engwithoutfears](https://t.me/engwithoutfears) | Phrases, idioms, topic adjectives (small channel) | 28 |
 
 ---
 
@@ -24,7 +25,8 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 | Modern / Slang Vocab | 35+ |
 | Canadian Culture & Life | 15+ |
 | Hockey Vocab | 8+ |
-| **TOTAL** | **240+** |
+| English without Fear (small channel) | 28 |
+| **TOTAL** | **270+** |
 
 ---
 
@@ -53,6 +55,12 @@ english-vocab-homiesonly/
         ├── hockey_vocabulary.md
         ├── canadian_culture.md
         └── job_search_vocab.md
+    └── engwithoutfears/
+        ├── README.md
+        ├── vocabulary.json
+        ├── phrases_and_idioms.md
+        ├── vocabulary_topics.md
+        └── resources.md
 ```
 
 ---

@@ -1,6 +1,6 @@
-# 🇬🇧 English Vocabulary Base — Multi-Author Collection
+# 🌍 Language Learning Vocabulary Base — Multi-Author Collection
 
-Vocabulary, idioms, grammar rules and resources collected from top English teachers & channels.
+Vocabulary, idioms, grammar rules and resources collected from top language teachers & channels (English & Chinese so far).
 
 ---
 
@@ -12,6 +12,7 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 | `authors/canada-talk/` | IELTS Tutor (Victoria, BC) | [@canada_talk](https://t.me/canada_talk) | Series vocab, Gen Z, Canadian life, Grammar | 60+ |
 | `authors/engwithoutfears/` | Marina | [@engwithoutfears](https://t.me/engwithoutfears) | Phrases, idioms, topic adjectives (small channel) | 28 |
 | `authors/lirenglish/` | Anastasia (@lir_a) | [@lirenglish](https://t.me/lirenglish) | Teacher's diary: idioms, grammar, pronunciation, methods | 30+ |
+| `authors/stacy-laoshi/` | Stacy Laoshi | [@stacy_laoshi](https://t.me/stacy_laoshi) | 🇨🇳 Chinese: hanzi, grammar, tones, slang, drama phrases | 30 |
 
 ---
 
@@ -28,7 +29,8 @@ Vocabulary, idioms, grammar rules and resources collected from top English teach
 | Hockey Vocab | 8+ |
 | English without Fear (small channel) | 28 |
 | Lir in English (teacher's diary) | 30+ |
-| **TOTAL** | **300+** |
+| Chinese (Stacy Laoshi) | 30 |
+| **TOTAL** | **330+** |
 
 ---
 
@@ -72,6 +74,15 @@ english-vocab-homiesonly/
         ├── pronunciation_tips.md
         ├── resources.md
         └── teaching_methods.md
+    └── stacy-laoshi/
+        ├── README.md
+        ├── vocabulary.json
+        ├── words_and_phrases.md
+        ├── grammar_patterns.md
+        ├── idioms_and_culture.md
+        ├── tones_and_pronunciation.md
+        ├── modern_slang.md
+        └── resources.md
 ```
 
 ---

@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "source": "Telegram @stacy_laoshi (Заметки STACY LAOSHI)",
+    "language": "Mandarin Chinese",
+    "author": "Stacy Laoshi (real name/credentials not publicly disclosed)",
+    "note": "Very small/new channel - 17 posts total, ~9 educational. Level HSK1-HSK3. Two media files (stroke order image, Top 50 Phrases PDF) not retrievable.",
+    "posts_covered": "Full channel (1-17)",
+    "total_items": 30
+  },
+  "characters": [
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "meaning_ru": "падать / опускаться"
+    },
+    {
+      "hanzi": "杀",
+      "pinyin": "shā",
+      "meaning_ru": "забивать, убивать"
+    },
+    {
+      "hanzi": "养",
+      "pinyin": "yǎng",
+      "meaning_ru": "содержать, заботиться полностью"
+    },
+    {
+      "hanzi": "过",
+      "pinyin": "guo",
+      "meaning_ru": "глагольный суффикс опыта"
+    },
+    {
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "meaning_ru": "все, всё; оба (усилитель)"
+    }
+  ],
+  "words": [
+    {
+      "word": "脑子",
+      "pinyin": "nǎozi",
+      "meaning_ru": "мозг, ум"
+    },
+    {
+      "word": "好东西",
+      "pinyin": "hǎo dōngxi",
+      "meaning_ru": "хорошая вещь"
+    },
+    {
+      "word": "希望",
+      "pinyin": "xīwàng",
+      "meaning_ru": "надеяться"
+    },
+    {
+      "word": "人人",
+      "pinyin": "rénrén",
+      "meaning_ru": "каждый человек, все поголовно"
+    },
+    {
+      "word": "好看",
+      "pinyin": "hǎokàn",
+      "meaning_ru": "красивый (внешность) / интересный (книга, фильм) — двойное значение"
+    },
+    {
+      "word": "屠夫",
+      "pinyin": "túfū",
+      "meaning_ru": "мясник (культурно низкостатусная профессия)"
+    },
+    {
+      "word": "入赘",
+      "pinyin": "rùzhuì",
+      "meaning_ru": "войти в семью жены (примаченский брак)"
+    },
+    {
+      "word": "火锅",
+      "pinyin": "huǒguō",
+      "meaning_ru": "хого, китайский самовар"
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "我不想下雨，我想下钱",
+      "pinyin": "wǒ bù xiǎng xià yǔ, wǒ xiǎng xià qián",
+      "meaning_ru": "Я не хочу, чтобы шёл дождь, хочу, чтобы шли деньги",
+      "note": "WeChat meme"
+    },
+    {
+      "phrase": "脑子是个好东西，希望人人都有",
+      "pinyin": "nǎozi shì ge hǎo dōngxi, xīwàng rénrén dōu yǒu",
+      "meaning_ru": "Мозг — хорошая штука, хотелось бы, чтобы он был у каждого",
+      "note": "ироничный укол за глупость"
+    },
+    {
+      "phrase": "我看过很多书，但都没有你好看",
+      "pinyin": "wǒ kàn guo hěn duō shū, dàn dōu méi yǒu nǐ hǎo kàn",
+      "meaning_ru": "Я прочитал много книг, но все они не такие интересные, как ты",
+      "note": "романтический комплимент, игра на двойном значении 好看"
+    },
+    {
+      "phrase": "我杀猪养你",
+      "pinyin": "wǒ shā zhū yǎng nǐ",
+      "meaning_ru": "Я буду забивать свиней, чтобы тебя содержать",
+      "note": "из дорамы Pursuit of Jade 2026, отсылка к 我养你 из King of Comedy 1999"
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Verb + 过 (guo)",
+      "level": "HSK2",
+      "explanation": "Маркер пережитого опыта - 'делал когда-то'",
+      "example": "我去过上海。(Wǒ qù guo Shànghǎi.) — Я был в Шанхае."
+    },
+    {
+      "pattern": "A + 没有 + B + Adjective",
+      "level": "HSK2",
+      "explanation": "Сравнение: A не такой [прил.], как B",
+      "example": "我没有他高。(Wǒ méiyǒu tā gāo.) — Я не такой высокий, как он."
+    },
+    {
+      "pattern": "都 (dōu)",
+      "level": "HSK1",
+      "explanation": "Универсальный квантификатор/усилитель полноты охвата",
+      "example": "我们都很忙。(Wǒmen dōu hěn máng.) — Мы все очень заняты."
+    },
+    {
+      "pattern": "X 是 + 个 + Y",
+      "level": "HSK1",
+      "explanation": "Базовая структура определения через счётное слово",
+      "example": "脑子是个好东西。— Мозг — хорошая штука."
+    }
+  ],
+  "modern_slang": [
+    {
+      "word": "上头",
+      "pinyin": "shàng tóu",
+      "meaning_ru": "залипательно, не оторваться",
+      "example": "这个电影太上头了!"
+    },
+    {
+      "word": "尴尬",
+      "pinyin": "gāngà",
+      "meaning_ru": "кринж, неловко",
+      "example": "好尴尬啊…"
+    },
+    {
+      "word": "氛围",
+      "pinyin": "fēnwéi",
+      "meaning_ru": "вайб, атмосфера",
+      "example": "这个氛围太舒服了。"
+    },
+    {
+      "word": "搞笑",
+      "pinyin": "gǎoxiào",
+      "meaning_ru": "ржать, угарно",
+      "example": "这个视频太搞笑了!"
+    },
+    {
+      "word": "挑战",
+      "pinyin": "tiǎozhàn",
+      "meaning_ru": "челлендж",
+      "example": "你敢挑战这个吗？"
+    }
+  ],
+  "tones": [
+    {
+      "tone": "1st (ˉ)",
+      "memory_image": "Как зовёшь кота, который точно не придёт — длинный ровный звук"
+    },
+    {
+      "tone": "2nd (ˊ)",
+      "memory_image": "Удивлённо-вопросительное 'ЧТО? Серьёзно?!'"
+    },
+    {
+      "tone": "3rd (ˇ)",
+      "memory_image": "Шпагат голосом — неохотное 'ну-у-у…'"
+    },
+    {
+      "tone": "4th (ˋ)",
+      "memory_image": "Резкое 'Так!' голосом строгой учительницы"
+    }
+  ]
+}

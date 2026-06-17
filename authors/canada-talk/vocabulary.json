@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "source": "Telegram @canada_talk",
+    "author": "IELTS & English tutor, Victoria BC Canada",
+    "bio": "language buff • IELTS & English tutor • full-time delulu",
+    "posts_covered": "~156 posts (full channel)",
+    "quizlet": "https://quizlet.com/ca/user/canada_talk",
+    "total_items": 60
+  },
+  "conversational_phrases": [
+    {
+      "phrase": "do me a solid",
+      "meaning_ru": "сделай мне одолжение",
+      "example": "Do me a solid and stop talking.",
+      "source": "Off Campus Ep.1"
+    },
+    {
+      "phrase": "peg someone for something",
+      "meaning_ru": "считать кого-то определённым типом",
+      "example": "I would not have pegged you for an oldies guy.",
+      "source": "Off Campus Ep.1"
+    },
+    {
+      "phrase": "pull an all-nighter",
+      "meaning_ru": "не спать всю ночь (ради учёбы)",
+      "example": "I can't pull an all-nighter in my room.",
+      "source": "Off Campus Ep.1"
+    },
+    {
+      "phrase": "out of the blue",
+      "meaning_ru": "совершенно неожиданно",
+      "example": "You can't just kiss me out of the blue.",
+      "source": "Off Campus Ep.2"
+    },
+    {
+      "phrase": "loosen up",
+      "meaning_ru": "расслабиться, не быть зажатым",
+      "example": "You're gonna have to loosen up if we're dating.",
+      "source": "Off Campus Ep.2"
+    },
+    {
+      "phrase": "down to the wire",
+      "meaning_ru": "в самый последний момент, впритык",
+      "example": "I know we're down to the wire.",
+      "source": "Off Campus Ep.3-4"
+    },
+    {
+      "phrase": "a means to an end",
+      "meaning_ru": "средство для достижения цели",
+      "example": "This tutoring is just a means to an end.",
+      "source": "Off Campus Ep.3-4"
+    },
+    {
+      "phrase": "rain check",
+      "meaning_ru": "перенести планы вежливо",
+      "example": "Can I take a rain check? I'm working late.",
+      "source": "Off Campus Ep.3-4"
+    },
+    {
+      "phrase": "take another crack at something",
+      "meaning_ru": "попробовать ещё раз",
+      "example": "I'll take another crack at the lyrics.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "no offence",
+      "meaning_ru": "без обид (перед резкостью)",
+      "example": "No offence, but that idea won't work.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "none taken",
+      "meaning_ru": "не обиделся (ответ на 'no offence')",
+      "example": "No offence. — None taken.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "go after something",
+      "meaning_ru": "активно добиваться чего-то",
+      "example": "If that's what you want, go after it.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "for a steal",
+      "meaning_ru": "почти даром, за бесценок",
+      "example": "You could get them for a steal.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "without further ado",
+      "meaning_ru": "без лишних предисловий",
+      "example": "Without further ado, let's begin.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "connect the dots",
+      "meaning_ru": "сопоставить факты",
+      "example": "I'm gonna need you to connect some dots.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "in shambles",
+      "meaning_ru": "в полном хаосе",
+      "example": "My dating life is in shambles.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "turmoil",
+      "meaning_ru": "хаос, смятение",
+      "example": "I've caused some turmoil here.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "hustle",
+      "meaning_ru": "торопиться / действовать быстро",
+      "example": "We gotta hustle or we'll miss it.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "killer",
+      "meaning_ru": "крутой, отличный",
+      "example": "That was a killer event.",
+      "source": "Off Campus Ep.5-6"
+    },
+    {
+      "phrase": "emotionally raw",
+      "meaning_ru": "на нервах, эмоционально уязвимый",
+      "example": "I am emotionally raw right now.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "derail",
+      "meaning_ru": "выбить из колеи, сорвать",
+      "example": "Don't let this derail your day.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "hook up with someone",
+      "meaning_ru": "переспать / поцеловаться (casual)",
+      "example": "They hooked up at the party.",
+      "source": "Off Campus Ep.7-8"
+    },
+    {
+      "phrase": "got roofied",
+      "meaning_ru": "подсыпали наркотик в напиток",
+      "example": "She got roofied at the club.",
+      "source": "Off Campus Ep.1"
+    }
+  ],
+  "dating_vocab": [
+    {
+      "term": "hard launch",
+      "meaning_ru": "публично объявить об отношениях",
+      "example": "They hard launched on Instagram."
+    },
+    {
+      "term": "soft launch",
+      "meaning_ru": "намекать на отношения без имени",
+      "example": "She's soft launching someone new."
+    },
+    {
+      "term": "exclusive",
+      "meaning_ru": "встречаться только друг с другом",
+      "example": "Are we exclusive?"
+    },
+    {
+      "term": "nepo baby",
+      "meaning_ru": "человек с преимуществами от известных родителей",
+      "example": "She's a total nepo baby."
+    },
+    {
+      "term": "hook up",
+      "meaning_ru": "переспать / поцеловаться (casual)",
+      "example": "They hooked up last night."
+    },
+    {
+      "term": "token straight boy",
+      "meaning_ru": "единственный натурал в квир-компании",
+      "example": "He's the token straight guy."
+    }
+  ],
+  "grammar_rules": [
+    {
+      "rule": "1st Conditional",
+      "structure": "If + Present Simple, will + V",
+      "use": "Реальное будущее",
+      "example": "If I go, will you come with me?"
+    },
+    {
+      "rule": "2nd Conditional",
+      "structure": "If + Past Simple, would + V",
+      "use": "Нереальное настоящее / гипотеза",
+      "example": "What would you be doing if I wasn't here?"
+    },
+    {
+      "rule": "3rd Conditional",
+      "structure": "If + Past Perfect, would have + V3",
+      "use": "Нереальное прошлое / сожаление",
+      "example": "If you had told me, I'd never have believed you."
+    },
+    {
+      "rule": "Yes/No Question Intonation",
+      "structure": "Voice goes UP ↗ at end",
+      "use": "Вопрос звучит вежливо",
+      "example": "Do you mind? ↗ / Are you sure? ↗"
+    },
+    {
+      "rule": "-ish suffix",
+      "structure": "number/adj + -ish",
+      "use": "Приблизительность",
+      "example": "five-ish, tired-ish, TikTok-ish"
+    },
+    {
+      "rule": "Parallelism",
+      "structure": "Same grammatical form in list",
+      "use": "Академическое и деловое письмо",
+      "example": "reading, writing, and dancing ✅ (NOT: reading, to write, dancing ❌)"
+    },
+    {
+      "rule": "101 meaning",
+      "structure": "Subject + 101",
+      "use": "Базовый уровень, введение",
+      "example": "Dating 101. Breakup 101. Psychology 101."
+    }
+  ],
+  "hockey_vocab": [
+    {
+      "term": "puck",
+      "meaning_ru": "шайба",
+      "example": "Pass the puck!"
+    },
+    {
+      "term": "crash the crease",
+      "meaning_ru": "агрессивно идти на пятачок",
+      "example": "He crashed the crease and scored."
+    },
+    {
+      "term": "swoop in",
+      "meaning_ru": "налететь внезапно",
+      "example": "He swooped in and stole the puck."
+    },
+    {
+      "term": "denied",
+      "meaning_ru": "отразил бросок (вратарь)",
+      "example": "Shot — and denied!"
+    },
+    {
+      "term": "interception",
+      "meaning_ru": "перехват",
+      "example": "A brilliant interception."
+    },
+    {
+      "term": "pounding",
+      "meaning_ru": "разгромно обыгрывать",
+      "example": "We're absolutely pounding them."
+    },
+    {
+      "term": "power play",
+      "meaning_ru": "игра в большинстве",
+      "example": "They scored on the power play."
+    },
+    {
+      "term": "shutout",
+      "meaning_ru": "игра на ноль",
+      "example": "The goalie recorded a shutout."
+    }
+  ],
+  "canadian_vocab": [
+    {
+      "term": "hidden job market",
+      "meaning_ru": "вакансии не публикуемые открыто",
+      "note": "40-50% всех вакансий"
+    },
+    {
+      "term": "survival job",
+      "meaning_ru": "временная работа ради денег",
+      "note": "Иммигранты часто начинают с этого"
+    },
+    {
+      "term": "informational interview",
+      "meaning_ru": "беседа с сотрудником для нетворкинга",
+      "note": "Популярная практика в Канаде"
+    },
+    {
+      "term": "community",
+      "meaning_ru": "сообщество (ключевое слово)",
+      "note": "Очень важная ценность в Канаде"
+    },
+    {
+      "term": "Remembrance Day",
+      "meaning_ru": "День памяти (11 ноября)",
+      "note": "Аналог Дня Победы"
+    },
+    {
+      "term": "Thanksgiving (Canada)",
+      "meaning_ru": "День благодарения",
+      "note": "2-й понедельник октября (не как в США)"
+    },
+    {
+      "term": "trick-or-treat",
+      "meaning_ru": "хэллоуинская традиция (дети ходят за конфетами)",
+      "note": "Halloween"
+    },
+    {
+      "term": "flâneur",
+      "meaning_ru": "человек, гуляющий без цели по городу",
+      "note": "French word used in Canada"
+    },
+    {
+      "term": "loitering",
+      "meaning_ru": "праздношатание (запрещено в публичных местах)",
+      "note": "В Квебеке flâner может означать это"
+    },
+    {
+      "term": "Victorian",
+      "meaning_ru": "житель города Виктория, BC",
+      "note": "Не путать с 'Victorian era'"
+    },
+    {
+      "term": "pumpkin pie",
+      "meaning_ru": "тыквенный пирог (традиция Thanksgiving)",
+      "note": ""
+    },
+    {
+      "term": "tire d'érable",
+      "meaning_ru": "кленовый тафи (квебекская сладость)",
+      "note": "Quebec tradition"
+    },
+    {
+      "term": "side gig",
+      "meaning_ru": "подработка",
+      "note": "Same as side hustle"
+    },
+    {
+      "term": "WorkBC",
+      "meaning_ru": "центр занятости провинции BC",
+      "note": "Бесплатные программы трудоустройства"
+    },
+    {
+      "term": "Adult Upgrading Grant",
+      "meaning_ru": "государственный грант на обучение",
+      "note": "Покрывает учёбу, транспорт, учебники"
+    },
+    {
+      "term": "Oxford Comma",
+      "meaning_ru": "оксфордская запятая",
+      "note": "Запятая перед последним 'and' в списке"
+    }
+  ]
+}

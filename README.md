@@ -13,6 +13,7 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | `authors/engwithoutfears/` | Marina | [@engwithoutfears](https://t.me/engwithoutfears) | Phrases, idioms, topic adjectives (small channel) | 28 |
 | `authors/lirenglish/` | Anastasia (@lir_a) | [@lirenglish](https://t.me/lirenglish) | Teacher's diary: idioms, grammar, pronunciation, methods | 30+ |
 | `authors/stacy-laoshi/` | Stacy Laoshi | [@stacy_laoshi](https://t.me/stacy_laoshi) | 🇨🇳 Chinese: hanzi, grammar, tones, slang, drama phrases | 30 |
+| `authors/ykengway/` | Yuliana | [@ykengway](https://t.me/ykengway) | Bilingual RU/EN: vocab topics, grammar, idioms | 45 |
 
 ---
 
@@ -30,7 +31,8 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | English without Fear (small channel) | 28 |
 | Lir in English (teacher's diary) | 30+ |
 | Chinese (Stacy Laoshi) | 30 |
-| **TOTAL** | **330+** |
+| Yuliana (ykengway) | 45 |
+| **TOTAL** | **375+** |
 
 ---
 
@@ -82,6 +84,15 @@ english-vocab-homiesonly/
         ├── idioms_and_culture.md
         ├── tones_and_pronunciation.md
         ├── modern_slang.md
+        └── resources.md
+    └── ykengway/
+        ├── README.md
+        ├── vocabulary.json
+        ├── vocabulary_topics.md
+        ├── idioms_and_phrases.md
+        ├── grammar_notes.md
+        ├── confusable_words.md
+        ├── pronunciation_tips.md
         └── resources.md
 ```
 

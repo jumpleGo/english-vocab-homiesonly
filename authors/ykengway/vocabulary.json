@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "source": "Telegram @ykengway (Your English way with Yuliana)",
+    "author": "Yuliana - university student in Russia, online English tutor (OGE exam prep)",
+    "contact": "@mynameroberto",
+    "note": "Small personal tutor blog, ~52 subscribers. Full channel covered (#1-#102), ~12 substantive teaching posts. Some content exists only as image carousels (spring idioms, films list) not fully transcribable.",
+    "posts_covered": "Full channel #1-#102",
+    "total_items": 45
+  },
+  "german_loanwords": [
+    {
+      "word": "Angst",
+      "ipa": "/ɑːŋst/",
+      "meaning_ru": "глубокая тревога",
+      "example": "The film explores the angst of modern teenage life."
+    },
+    {
+      "word": "Schadenfreude",
+      "ipa": "/ˈʃɑːdənˌfrɔɪdə/",
+      "meaning_ru": "злорадство (C1)",
+      "example": "I felt a twinge of Schadenfreude when my rival's project failed."
+    },
+    {
+      "word": "Noodle",
+      "ipa": "/ˈnuːdəl/",
+      "meaning_ru": "лапша",
+      "example": "This soup has chicken and noodles."
+    },
+    {
+      "word": "Sauerkraut",
+      "ipa": "/ˈzaʊərkraʊt/",
+      "meaning_ru": "квашеная капуста",
+      "example": ""
+    },
+    {
+      "word": "Dachshund",
+      "ipa": "/ˈdæksənd/",
+      "meaning_ru": "такса",
+      "example": ""
+    }
+  ],
+  "health_vocab": [
+    {
+      "phrase": "run some lab tests",
+      "meaning_ru": "сдать анализы"
+    },
+    {
+      "phrase": "get the blood work done",
+      "meaning_ru": "сдать кровь на анализы"
+    },
+    {
+      "phrase": "draw the blood",
+      "meaning_ru": "взять кровь"
+    },
+    {
+      "phrase": "syringe",
+      "meaning_ru": "шприц"
+    },
+    {
+      "phrase": "bandage",
+      "meaning_ru": "повязка"
+    },
+    {
+      "phrase": "check-up",
+      "meaning_ru": "осмотр"
+    }
+  ],
+  "tree_vocab": [
+    {
+      "word": "root",
+      "meaning_ru": "корень"
+    },
+    {
+      "word": "trunk",
+      "meaning_ru": "ствол"
+    },
+    {
+      "word": "bark",
+      "meaning_ru": "кора"
+    },
+    {
+      "word": "crown",
+      "meaning_ru": "крона"
+    },
+    {
+      "word": "bud",
+      "meaning_ru": "бутон"
+    },
+    {
+      "word": "petal",
+      "meaning_ru": "лепесток"
+    }
+  ],
+  "flower_vocab": [
+    {
+      "word": "bouquet",
+      "ipa": "[buˈkeɪ]",
+      "meaning_ru": "букет (t не читается)"
+    },
+    {
+      "word": "tulips",
+      "meaning_ru": "тюльпаны"
+    },
+    {
+      "word": "to wilt/fade",
+      "meaning_ru": "увядать"
+    }
+  ],
+  "animal_collective_nouns": [
+    {
+      "animal": "lions",
+      "collective": "a pride of lions"
+    },
+    {
+      "animal": "wolves",
+      "collective": "a pack of wolves"
+    },
+    {
+      "animal": "monkeys",
+      "collective": "a troop of monkeys"
+    },
+    {
+      "animal": "crows",
+      "collective": "a murder of crows"
+    },
+    {
+      "animal": "owls",
+      "collective": "a parliament of owls"
+    },
+    {
+      "animal": "fish",
+      "collective": "a school of fish"
+    },
+    {
+      "animal": "bees",
+      "collective": "a swarm of bees"
+    }
+  ],
+  "idioms": [
+    {
+      "phrase": "to be in one's element",
+      "meaning_ru": "быть в своей стихии",
+      "example": "Watch our chef in the kitchen — he's really in his element."
+    },
+    {
+      "phrase": "in broad daylight",
+      "meaning_ru": "среди бела дня"
+    },
+    {
+      "phrase": "to wise up",
+      "meaning_ru": "поумнеть"
+    },
+    {
+      "phrase": "to have a soft spot for someone",
+      "meaning_ru": "испытывать тёплые чувства к кому-то"
+    },
+    {
+      "phrase": "might as well",
+      "meaning_ru": "раз уже так, можно и...",
+      "example": "We've already waited 20 minutes. We might as well wait a little longer."
+    },
+    {
+      "phrase": "birds of a feather (flock together)",
+      "meaning_ru": "люди со схожими взглядами тянутся друг к другу"
+    },
+    {
+      "phrase": "to compare apples and oranges",
+      "meaning_ru": "сравнивать совершенно разные вещи"
+    },
+    {
+      "phrase": "the apple never falls far from the tree",
+      "meaning_ru": "яблочко от яблоньки недалеко падает"
+    },
+    {
+      "phrase": "to be a peach",
+      "meaning_ru": "быть золотцем"
+    },
+    {
+      "phrase": "to go bananas",
+      "meaning_ru": "сходить с ума"
+    }
+  ],
+  "grammar_rules": [
+    {
+      "rule": "used to vs would",
+      "explanation": "used to = прошлые состояния/привычки (включая states). would = повторяющиеся действия (НЕ states!)",
+      "example": "He used to have long hair. Every summer, we would go to the seaside."
+    },
+    {
+      "rule": "used to / be used to / get used to",
+      "explanation": "used to DO = делал раньше. be used to DOING = привычен сейчас. get used to DOING = процесс привыкания.",
+      "example": "I used to smoke. I'm used to waking up early. I'm getting used to the new schedule."
+    },
+    {
+      "rule": "Myth of perfect grammar",
+      "explanation": "Ясность и уверенность важнее идеальной грамматики. Носители тоже 'нарушают' правила.",
+      "example": "'Me and Sarah went...' instead of 'Sarah and I went...'"
+    }
+  ],
+  "confusable_words": [
+    {
+      "words": "convince/persuade",
+      "explanation": "convince = убеждать в истинности. persuade = убедить совершить действие.",
+      "examples": {
+        "convince": "He convinced me that he was right.",
+        "persuade": "She persuaded me to go to the party."
+      }
+    },
+    {
+      "words": "then/than",
+      "explanation": "then = время/последовательность. than = сравнение.",
+      "examples": {
+        "then": "First we ate, then we left.",
+        "than": "She's taller than me."
+      }
+    }
+  ],
+  "pronunciation_tips": [
+    {
+      "word": "algorithm",
+      "ipa": "/ˈæl.ɡər.ɪ.ðəm/",
+      "note": "От имени персидского математика аль-Хорезми"
+    },
+    {
+      "word": "bouquet",
+      "ipa": "[buˈkeɪ]",
+      "note": "Финальная t не читается"
+    },
+    {
+      "word": "wreath",
+      "ipa": "/riːθ/",
+      "note": "Венок"
+    }
+  ]
+}

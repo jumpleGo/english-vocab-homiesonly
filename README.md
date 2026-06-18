@@ -15,6 +15,7 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | `authors/stacy-laoshi/` | Stacy Laoshi | [@stacy_laoshi](https://t.me/stacy_laoshi) | 🇨🇳 Chinese: hanzi, grammar, tones, slang, drama phrases | 30 |
 | `authors/ykengway/` | Yuliana | [@ykengway](https://t.me/ykengway) | Bilingual RU/EN: vocab topics, grammar, idioms | 45 |
 | `authors/govoritzimina/` | Daria Zimina | [@govoritzimina](https://t.me/govoritzimina) | Daily phrases, grammar, confusables, slang | 30+ |
+| `authors/bluedrop-english/` | Dana | [@bluedrop_english](https://t.me/bluedrop_english) | Vocabulary through culture: films, songs, psychology, astrology | 40+ |
 
 ---
 
@@ -34,7 +35,8 @@ Vocabulary, idioms, grammar rules and resources collected from top language teac
 | Chinese (Stacy Laoshi) | 30 |
 | Yuliana (ykengway) | 45 |
 | Daria Zimina (govoritzimina) | 30+ |
-| **TOTAL** | **400+** |
+| Bluedrop English (Dana) | 40+ |
+| **TOTAL** | **440+** |
 
 ---
 
@@ -101,6 +103,17 @@ english-vocab-homiesonly/
         ├── vocabulary.json
         ├── idioms_and_phrases.md
         ├── grammar_notes.md
+        ├── confusable_words.md
+        ├── pronunciation_tips.md
+        ├── vocabulary_topics.md
+        ├── slang_modern.md
+        └── resources.md
+    └── bluedrop-english/
+        ├── README.md
+        ├── vocabulary.json
+        ├── phrasal_verbs_and_phrases.md
+        ├── idioms.md
+        ├── grammar_rules.md
         ├── confusable_words.md
         ├── pronunciation_tips.md
         ├── vocabulary_topics.md
